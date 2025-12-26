@@ -43,7 +43,7 @@ The objective of this project is to:
 ```
 captcha-using-python-tkinter/
 │
-├── main.py
+├── Captcha_Genrator.py
 ├── out.png
 ├── fonts/
 │   └── arial.ttf
