@@ -67,7 +67,7 @@ pip install captcha pillow
 
 ### Step 3: Run the Application
 ```bash
-python main.py
+python Captcha_Genrator.py
 ```
 
 ---
@@ -100,6 +100,6 @@ This project is developed for educational purposes and is free to use and modify
 
 ## 👤 Author
 
-**Your Name**  
-Student | Python Developer  
-GitHub: [https://github.com/your-username](https://github.com/your-username)
+**Chandrakanta panda**  
+Developer | Python Developer  
+GitHub: [https://github.com/chandrakantapanda](https://github.com/chandrakantapanda)
